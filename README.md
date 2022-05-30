@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Duong Minh Loc (or Loc for short)
+- 👋 Hi, I’m Duong Minh Loc
 - 👀 I’m interested in Swimming, Zodiac Sign and Learning new things
-- 💞️ I’m looking to collaborate on Fullstack Web Developing
+- 💞️ I’m looking to collaborate on Backend Developing (Java)
